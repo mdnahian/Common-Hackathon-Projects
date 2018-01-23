@@ -45,7 +45,7 @@ Whether or not an idea is unique should be taken into consideration by judges an
 2. Find people using facial recognition
 3. Tag things on a map for people to find
 4. Connecting people through music
-
+5. Connect people at hackathons to build projects together
 
 ## Entertainment
 1. Music generation using deep learning
@@ -54,11 +54,14 @@ Whether or not an idea is unique should be taken into consideration by judges an
 
 ## Cryptocurrency/Blockchain
 1. Mining cryptocurrency through your browser
+2. Buy, sell, or auction site using cryptocurrency
 
 
 ## Productivity
 1. Block sites that allows you to procrastinate
 2. Browse the internet through SMS
+3. Hackathon idea generator 
+4. Location based reminders app
 
 ## Money & Buisness
 1. Basic stock market analysis
