@@ -30,6 +30,7 @@ Whether or not an idea is unique should be taken into consideration by judges an
 1. Sort out recyclables from trash 
 2. Smart mirror
 3. Smart camera + facial recognition for security or any kind of basic alert system
+4. Smart pill dispenser that dispenses pills in correct doses at the right time
 
 
 ## Health & Social Good
