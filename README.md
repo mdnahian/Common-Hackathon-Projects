@@ -3,7 +3,7 @@ A list of hackathon project ideas that should die.
 Whether or not an idea is unique should be taken into consideration by judges and by hackers when brainstorming ideas.
 
 ### Should not be the only feature of a project:
-1. Tinder, Uber, AirBnB for X
+1. Tinder, Uber, Airbnb for X
 2. Sentiment analysis of either image or text
 3. Facial recognition
 4. Speech to Text or Text to Speech
