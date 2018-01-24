@@ -1,5 +1,5 @@
-# Common-Hackathon-Projects
-A list of hackathon project ideas that should die.
+# Common Hackathon Projects
+A list of hackathon project ideas that have been done countless times before.
 Whether or not an idea is unique should be taken into consideration by judges and by hackers when brainstorming ideas.
 
 ### Should not be the only feature of a project:
