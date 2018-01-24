@@ -51,6 +51,7 @@ Whether or not an idea is unique should be taken into consideration by judges an
 ## Entertainment
 1. Music generation using deep learning
 2. New song recommendations from you friends or your preferences/interests
+3. Shared music playlists for a party
 
 
 ## Cryptocurrency/Blockchain
@@ -70,7 +71,7 @@ Whether or not an idea is unique should be taken into consideration by judges an
 3. Personalized ads billboard
 
 
-# News
+## News
 1. Detecting fake news
 2. Providing the "other side" to an article
 
