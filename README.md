@@ -52,6 +52,7 @@ Whether or not an idea is unique should be taken into consideration by judges an
 1. Music generation using deep learning
 2. New song recommendations from you friends or your preferences/interests
 3. Shared music playlists for a party
+4. Play random music from library based on mood
 
 
 ## Cryptocurrency/Blockchain
